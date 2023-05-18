@@ -1,3 +1,6 @@
+# Angular-Learning
+angular learning and first angular project
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
